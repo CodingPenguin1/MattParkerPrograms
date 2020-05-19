@@ -16,4 +16,8 @@ The pattern ends at the fourth digit, as 1234 over 4 is 308.5. There is one 9-di
 
 In case you want to solve it by hand, I've hidden the answer:
 
->!381,654,729
+<details><summary>ANSWER</summary>
+
+381,654,729
+
+</details>
