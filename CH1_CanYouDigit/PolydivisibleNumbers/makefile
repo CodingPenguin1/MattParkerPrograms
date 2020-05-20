@@ -1,0 +1,2 @@
+PolydivisibleNumbersCUDA: PolydivisibleNumbersCUDA.cu
+	nvcc -o PolydivisibleNumbersCUDA PolydivisibleNumbersCUDA.cu -use_fast_math
