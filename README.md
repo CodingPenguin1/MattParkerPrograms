@@ -18,6 +18,30 @@ In case you want to solve it by hand, I've hidden the answer:
 
 <details><summary>ANSWER</summary>
 
-381,654,729
+`381654729`
+
+</details>
+
+## Polydivisible Numbers
+
+[From Wikipedia](https://en.wikipedia.org/wiki/Polydivisible_number): In mathematics a polydivisible number (or magic number) is a number in a given number base with digits abcde... that has the following properties:
+
+Its first digit a is not 0.
+
+The number formed by its first two digits ab is a multiple of 2.
+
+The number formed by its first three digits abc is a multiple of 3.
+
+The number formed by its first four digits abcd is a multiple of 4.
+
+This is different than [Nine Digits Arrangement](##Nine-Digits-Arrangement) in that digits can be excluded or repeated in the number, the range of allowable digits includes 0, and the number of digits allowed is infinite.
+
+This program finds all polydivisible numbers up to a user-specified max value.
+
+<details><summary>LIST OF ALL 20,456 POLYDIVISIBLE NUMBERS</summary>
+
+```
+
+```
 
 </details>
